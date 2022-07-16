@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Abdullah.
-## I don't just code, I solve problems.
 
 <!--
 **AbdullahAjayi/AbdullahAjayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
