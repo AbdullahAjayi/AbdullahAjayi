@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Abdullah.
+Getting one percent better everyday.
 
 ---
 <!--
