@@ -6,7 +6,7 @@ I am dedicated to solving problems and bringing ideas to life through innovative
 **[Check out my portfolio](https://abdullahajayi.github.io/portfolio/)🚀**
 
 - 🔭 _Currently working on:_
-  - **ProDOS**, a Telegram based productivity partner. A space for you to build consistent habits, discipline, and focus.
+  - **ProDOS**, a Telegram based productivity bot. A space for you to build consistent habits, discipline, and focus.
 - 💻 _Currently learning:_
   - **The fundamentals of programming**: to solidify my base and understand how code really works, enhancing my ability to write efficient and effective code.
   - **Problem solving and algorithms**: to become a better programmer overall, enabling me to tackle complex challenges with confidence.
